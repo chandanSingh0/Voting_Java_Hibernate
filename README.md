@@ -9,21 +9,21 @@ This console-based Java project demonstrates the use of Hibernate with MySQL to 
 - Log out from the administrator account. <br> 
 
 <h5 align="left">Voter Functionality:</h5>
-- Register by providing personal information and verification.
-- Log in using registered credentials.
-- View upcoming elections and candidate profiles.
-- Cast votes securely and anonymously.
-- Receive confirmation and acknowledgment of the successfully cast vote.
-- View personal voting history.
+- Register by providing personal information and verification. <br> 
+- Log in using registered credentials. <br> 
+- View upcoming elections and candidate profiles. <br> 
+- Cast votes securely and anonymously. <br> 
+- Receive confirmation and acknowledgment of the successfully cast vote. <br> 
+- View personal voting history. <br> 
 
 <h2 align="left">Database Schema</h2>
-- The project uses Hibernate ORM for database interaction. 
-- The entity classes in com.example.model are automatically mapped to the corresponding MySQL tables.
+- The project uses Hibernate ORM for database interaction.  <br> 
+- The entity classes in com.example.model are automatically mapped to the corresponding MySQL tables. <br> 
 
 <h2 align="left">Security</h2>
-- The application implements encryption and secure authentication for sensitive voter data.
-- Measures are taken to prevent multiple voting or any fraudulent activities, such as checking for duplicate votes or suspicious voting patterns.
+- The application implements encryption and secure authentication for sensitive voter data. <br> 
+- Measures are taken to prevent multiple voting or any fraudulent activities, such as checking for duplicate votes or suspicious voting patterns. <br> 
 
 <h2 align="left">Technologies Used</h2>
-- Back-end: (programming language, e.g., Python, Java, etc.), (framework Spring .)
-- Database: (database management system, e.g., MySQL, PostgreSQL, etc.)
+- Back-end: (programming language, e.g., Python, Java, etc.), (framework Spring .) <br> 
+- Database: (database management system, e.g., MySQL, PostgreSQL, etc.) <br> 
