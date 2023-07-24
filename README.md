@@ -3,10 +3,10 @@ This console-based Java project demonstrates the use of Hibernate with MySQL to 
 
 <h2 align="left">Features</h3>
 <h5 align="left">Administrator Functionality:</h5>
-- Login using predefined credentials.
-- Create, update, and delete candidate profiles.
-- View candidate information.
-- Log out from the administrator account.
+- Login using predefined credentials. <br> 
+- Create, update, and delete candidate profiles. <br> 
+- View candidate information. <br> 
+- Log out from the administrator account. <br> 
 
 <h5 align="left">Voter Functionality:</h5>
 - Register by providing personal information and verification.
